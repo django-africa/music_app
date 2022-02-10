@@ -1,4 +1,4 @@
-Django==2.2.10
+Django==2.2.27
 django-appconf==1.0.3
 django-select2==7.2.3
 pytz==2019.3
